@@ -163,7 +163,7 @@
         <td align="center">ECO GIS</td><td align="center">IdeaPot</td>
       <tr>
       <tr>
-        <td align="center">외부 - 삼성</td><td align="center">교내</td>
+        <td align="center">교외 - 삼성</td><td align="center">교내</td>
       <tr>
       <tr>
         <td align="center">개발 보류</td><td align="center">개발 중</td>
