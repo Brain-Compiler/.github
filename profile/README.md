@@ -150,23 +150,26 @@
     <h4>📁프로젝트</h4>
     <p>Brain-Compiler의 진행 프로젝트<p/>
     <table class="table" style="overflow-x: auto">
-      <th>2022-2 Capstone</th>
+      <th>삼성 주니어 SW 창작대회</th><th>2022-2 Capstone</th>
       <tr>
-        <td>
+        <td align="center">
+          <img src="https://user-images.githubusercontent.com/92522544/194135742-2f2f8eaa-09bf-47e7-935f-3c56fa512ab9.png" style="width: 150px; height: 150px;">
+        </td>
+        <td align="center">
           <img src="https://user-images.githubusercontent.com/92522544/194031819-2481a713-d54b-49ee-8a34-6b7e909e0f0b.png" style="width: 150px; height: 150px;">
         </td>
       <tr>
       <tr>
-        <td align="center">IdeaPot</td>
+        <td align="center">ECO GIS</td><td align="center">IdeaPot</td>
       <tr>
       <tr>
-        <td align="center">교내</td>
+        <td align="center">외부 - 삼성</td><td align="center">교내</td>
       <tr>
       <tr>
-        <td align="center">개발 중</td>
+        <td align="center">개발 보류</td><td align="center">개발 중</td>
       <tr>
       <tr>
-        <td align="center">김윤현<br />박대형<br />이재성<br />임준형<br />장휴선</td>
+        <td align="center">김윤현<br />변예준<br />임준형</td><td align="center">김윤현<br />박대형<br />이재성<br />임준형<br />장휴선</td>
       <tr>
     </table>
   </div>
