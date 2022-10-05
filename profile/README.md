@@ -27,7 +27,7 @@
   </div>
   
   <div>
-    <h4>👤가치관</h4>
+    <h4>💡가치관</h4>
     <p>Explanation<p/>
   </div>
   
@@ -38,6 +38,39 @@
   
   <hr />
   
+  <div>
+    <h4>👤멤버</h4>
+    <p>Explanation<p/>
+    <table class="table" style="overflow-x: auto">
+      <th colspan="3">동아리장</th>
+      <tr>
+        <td colspan="3" align="center">김윤현</td>
+      <tr>
+      <tr>
+        <td colspan="3" align="center"></td>
+      <tr>
+      <tr>
+        <td colspan="3" align="center"></td>
+      <tr>
+      <tr>
+        <td colspan="3" align="center"></td>
+      <tr>
+      <th>동아리부장</th><th>동아리원</th>
+      <tr>
+        <td align="center">임준형</td><td align="center">박대형</td>
+      <tr>
+      <tr>
+        <td align="center"></td>
+      <tr>
+      <tr>
+        <td align="center"></td>
+      <tr>
+      <tr>
+        <td align="center"></td>
+      <tr>
+    </table>
+  </div>
+  
    <div>
     <h4>🏢팀</h4>
     <p>Explanation<p/>
@@ -46,7 +79,6 @@
   <div>
     <h4>📁프로젝트</h4>
     <p>Explanation<p/>
-    <div>
     <table class="table" style="overflow-x: auto">
       <th>2022-2 Capstone</th>
       <tr>
