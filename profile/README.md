@@ -57,7 +57,7 @@
           <a href="mailto:kyhofficial05@gmail.com">
             <img src="https://img.shields.io/badge/kyhofficial05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
           </a>
-          <a href="https://www.instagram.com/brain._.compiler/">
+          <a href="https://www.instagram.com/yunhyeon._.05/">
             <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" />
           </a>
           <a href="https://github.com/KYH-code">
