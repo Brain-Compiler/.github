@@ -43,6 +43,16 @@
     <p>Explanation<p/>
   </div>
   
+  <div>
+    <h4>🏆대회</h4>
+    <p>Explanation<p/>
+  </div>
+  
+  <div>
+    <h4>🎫</h4>
+    <p>Explanation<p/>
+  </div>
+  
   <hr />
   
 </body>
