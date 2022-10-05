@@ -5,7 +5,9 @@
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" />
     </a>
     <br />
-    <img src="https://img.shields.io/badge/ideapot__@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" />
+    <a href="mailto:ideapot_@naver.com">
+      <img src="https://img.shields.io/badge/ideapot__@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" />
+    </a>
   <p>
 </ header>
 
@@ -52,7 +54,9 @@
       <tr>
       <tr>
         <td colspan="6" align="center">
-          <img src="https://img.shields.io/badge/kyhofficial05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+          <a href="mailto:kyhofficial05@gmail.com">
+            <img src="https://img.shields.io/badge/kyhofficial05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+          </a>
           <a href="https://www.instagram.com/brain._.compiler/">
             <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" />
           </a>
