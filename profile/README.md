@@ -163,7 +163,7 @@
         <td align="center">교내</td>
       <tr>
       <tr>
-        <td align="center">진행 중</td>
+        <td align="center">개발 중</td>
       <tr>
       <tr>
         <td align="center">김윤현<br />박대형<br />이재성<br />임준형<br />장휴선</td>
