@@ -1,8 +1,9 @@
 <header>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Brain-Compiler&height=150&fontSize=60&desc=Since%202022&descAlignY=75&descAlign=60" /><!-- 703ee5 -->
   <p align="right">
-    <a href="https://www.instagram.com/brain._.compiler/" />
+    <a href="https://www.instagram.com/brain._.compiler/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
     <br />
     <img src="https://img.shields.io/badge/ideapot__@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" />
   <p>
