@@ -49,7 +49,7 @@
   </div>
   
   <div>
-    <h4>🎫</h4>
+    <h4>🎫외부활동</h4>
     <p>Explanation<p/>
   </div>
   
