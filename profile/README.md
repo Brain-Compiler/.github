@@ -148,7 +148,7 @@
   
   <div>
     <h4>📁프로젝트</h4>
-    <p>Explanation<p/>
+    <p>Brain-Compiler의 진행 프로젝트<p/>
     <table class="table" style="overflow-x: auto">
       <th>2022-2 Capstone</th>
       <tr>
@@ -161,6 +161,9 @@
       <tr>
       <tr>
         <td align="center">교내</td>
+      <tr>
+      <tr>
+        <td align="center">진행 중</td>
       <tr>
       <tr>
         <td align="center">김윤현<br />박대형<br />이재성<br />임준형<br />장휴선</td>
