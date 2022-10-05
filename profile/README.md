@@ -99,12 +99,12 @@
           </a>
         </td>
       <tr>
-      <th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th>
+      <th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th></th>
       <tr>
-        <td align="center">김찬민</td><td align="center">이상민</td><td align="center">이찬욱</td><td align="center">임현준</td><td align="center">전유찬</td>
+        <td align="center">김찬민</td><td align="center">이상민</td><td align="center">이찬욱</td><td align="center">임현준</td><td align="center">전유찬</td><td align="center"></td>
       <tr>
       <tr>
-        <td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td>
+        <td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center"></td>
       <tr>
       <tr>
         <td align="center">
@@ -126,11 +126,13 @@
           <a href="https://github.com/">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
           </a>
-        </td><td align="center">
+        </td>
+        <td align="center">
           <a href="https://github.com/">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
           </a>
         </td>
+        <td align="center"></td>
       <tr>
     </table>
   </div>
