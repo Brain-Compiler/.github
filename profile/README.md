@@ -4,8 +4,7 @@
     <a href="https://www.instagram.com/brain._.compiler/" />
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" />
     <br />
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHWPhlgfqggfvcjzKRrrWpgCwTvjgqwxdhqTJxhGWLqlrPMQwnZKJDHXVQcJzZhGdMCJC" />
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/ideapot__@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white" />
   <p>
 </ header>
 
@@ -47,7 +46,26 @@
   <div>
     <h4>📁프로젝트</h4>
     <p>Explanation<p/>
+    <div>
+    <table class="table" style="overflow-x: auto">
+      <th>2022-2 Capstone</th>
+      <tr>
+        <td>
+          <img src="https://user-images.githubusercontent.com/92522544/194031819-2481a713-d54b-49ee-8a34-6b7e909e0f0b.png" style="width: 150px; height: 150px;">
+        </td>
+      <tr>
+      <tr>
+        <td align="center">IdeaPot</td>
+      <tr>
+      <tr>
+        <td align="center">교내</td>
+      <tr>
+      <tr>
+        <td align="center">김윤현<br />박대형<br />이재성<br />임준형<br />장휴선</td>
+      <tr>
+    </table>
   </div>
+
   
   <div>
     <h4>🏆대회</h4>
