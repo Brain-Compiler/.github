@@ -3,6 +3,9 @@
   <p align="right">
     <a href="https://www.instagram.com/brain._.compiler/" />
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" />
+    <br />
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkHWPhlgfqggfvcjzKRrrWpgCwTvjgqwxdhqTJxhGWLqlrPMQwnZKJDHXVQcJzZhGdMCJC" />
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   <p>
 </ header>
 
