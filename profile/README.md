@@ -38,7 +38,7 @@
   </div>
   
   <hr />
-  
+
   <div>
     <h4>👤멤버</h4>
     <p>Explanation<p/>
