@@ -44,7 +44,7 @@
   <div>
     <h4>👤멤버</h4>
     <p>창업동아리 Brain-Compiler는 경북소프트웨어고등학교에 재학중인 재학생들로 구성되어 있으며, <br />동아리장을 포함해 총 12명 2학년 7명과 1학년 5명으로 구성되어있다.<p/>
-    <table class="table">
+    <table class="table" style="white-space: nowrap;">
       <th colspan="6">동아리장</th>
       <tr>
         <td colspan="6" align="center">김윤현</td>
@@ -149,7 +149,7 @@
   <div>
     <h4>📁프로젝트</h4>
     <p>Brain-Compiler의 진행 프로젝트<p/>
-    <table class="table">
+    <table class="table" style="white-space: nowrap;">
       <th>삼성 주니어 SW 창작대회</th><th>2022-2 Capstone</th>
       <tr>
         <td align="center">
