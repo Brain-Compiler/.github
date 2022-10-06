@@ -45,7 +45,7 @@
     <h4>👤멤버</h4>
     <p>창업동아리 Brain-Compiler는 경북소프트웨어고등학교에 재학중인 재학생들로 구성되어 있으며, <br />동아리장을 포함해 총 12명 2학년 7명과 1학년 5명으로 구성되어있다.<p/>
     <table class="table" style="white-space: nowrap;">
-      <th colspan="6">동아리장</th>
+      <th colspan="6">동아리 대표</th>
       <tr>
         <td colspan="6" align="center">김윤현</td>
       <tr>
