@@ -215,7 +215,6 @@
         <li><2022-2ND Capstone> IdeaPot - 진행 중</li>
       </ol>
     </details>
-    
     <details>
       <summary>교외 대회</summary>
       <ol>
