@@ -208,7 +208,7 @@
   
   <div>
     <h4>🏆대회</h4>
-    <p>Explanation<p/>
+    <p>Brain-Compiler는 교내·외의 다양한 대회에 도전하고 있습니다!<p/>
     <details>
       <summary>교내 대회</summary>
       <ol>
