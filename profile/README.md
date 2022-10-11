@@ -30,6 +30,18 @@
   </div>
   
   <div>
+    <h4>📍 규칙</h4>
+    <p>Brain-Compiler의 규칙은 다음과 같습니다.<p/>
+    <ol>
+      <li>서로에 대한 배려와 존중</li>
+      <li>서로에 대한 배려와 존중</li>
+      <li>서로에 대한 배려와 존중</li>
+      <li>서로에 대한 배려와 존중</li>
+      <li>서로에 대한 배려와 존중</li>
+    </ol>
+  </div>
+  
+  <div>
     <h4>💡가치관</h4>
     <p>Explanation<p/>
   </div>
