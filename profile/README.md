@@ -211,15 +211,15 @@
     <p>Brain-Compiler는 교내·외의 다양한 대회에 도전하고 있습니다!<p/>
     <details>
       <summary>교내 대회</summary>
-      <ol>
+      <ul>
         <li><2022-2ND Capstone> IdeaPot - 진행 중</li>
-      </ol>
+      </ul>
     </details>
     <details>
       <summary>교외 대회</summary>
-      <ol>
+      <ul>
         <li><삼성 주니어 SW 창작대회> ECO GIS - 본선</li>
-      </ol>
+      </ul>
     </details>
   </div>
   
