@@ -21,7 +21,7 @@
 
   <div>
     <h4>📃개요</h4>
-    <p>2022년 2학기에 개설된 경북소프트웨어고등학교의 창업동아리<p/>
+    <p>2022년 2학기에 개설된 경북소프트웨어고등학교의 창업동아리입니다.<p/>
   </div>
   
   <div>
@@ -32,13 +32,30 @@
   <div>
     <h4>📍 규칙</h4>
     <p>Brain-Compiler의 규칙은 다음과 같습니다.<p/>
-    <ol>
-      <li>서로에 대한 배려와 존중</li>
-      <li>서로에 대한 배려와 존중</li>
-      <li>서로에 대한 배려와 존중</li>
-      <li>서로에 대한 배려와 존중</li>
-      <li>서로에 대한 배려와 존중</li>
-    </ol>
+    <details>
+      <summary>기본 규칙</summary>
+      <ul>
+        <li>존중과 배려</li>
+        <li>이해와 격려</li>
+        <li>...</li>
+      </ul>
+    </details>
+    <details>
+      <summary>회의 규칙</summary>
+      <ul>
+        <li>회의 시간에 다른 업무 금지</li>
+        <li>주제와 관련 없는 대화 금지</li>
+        <li>...</li>
+      </ul>
+    </details>
+    <details>
+      <summary>개발 규칙</summary>
+      <ul>
+        <li>프로젝트 리더의 의견을 존중할 것</li>
+        <li>팀원과 협업할 것</li>
+        <li>...</li>
+      </ul>
+    </details>
   </div>
   
   <div>
@@ -55,7 +72,7 @@
 
   <div>
     <h4>👤멤버</h4>
-    <p>창업동아리 Brain-Compiler는 경북소프트웨어고등학교에 재학중인 재학생들로 구성되어 있으며, <br />동아리장을 포함해 총 12명 2학년 7명과 1학년 5명으로 구성되어있다.<p/>
+    <p>창업동아리 Brain-Compiler는 경북소프트웨어고등학교에 재학중인 재학생들로 구성되어 있으며, <br />동아리장을 포함해 총 12명 2학년 7명과 1학년 5명으로 구성되어있습니다.<p/>
     <table class="table" style="white-space: nowrap;">
       <th colspan="6">동아리 대표</th>
       <tr>
