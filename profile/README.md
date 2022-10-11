@@ -35,8 +35,9 @@
     <details>
       <summary>기본 규칙</summary>
       <ul>
-        <li>존중과 배려</li>
-        <li>이해와 격려</li>
+        <li>활동 불참시 사전에 미리 이야기할 것</li>
+        <li>시간 약속 지키기</li>
+        <li>활동이 끝난 후 본인이 사용한 물품과 자리를 정리할 것</li>
         <li>...</li>
       </ul>
     </details>
@@ -52,7 +53,8 @@
       <summary>개발 규칙</summary>
       <ul>
         <li>프로젝트 리더의 의견을 존중할 것</li>
-        <li>팀원과 협업할 것</li>
+        <li>팀원들의 의견을 수용할 것</li>
+        <li>팀원과 소통 & 협업할 것</li>
         <li>...</li>
       </ul>
     </details>
