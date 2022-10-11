@@ -209,6 +209,19 @@
   <div>
     <h4>🏆대회</h4>
     <p>Explanation<p/>
+    <details>
+      <summary>교내 대회</summary>
+      <ol>
+        <li><2022-2ND Capstone> IdeaPot - 진행 중</li>
+      </ol>
+    </details>
+    
+    <details>
+      <summary>교외 대회</summary>
+      <ol>
+        <li><삼성 주니어 SW 창작대회> ECO GIS - 본선</li>
+      </ol>
+    </details>
   </div>
   
   <div>
