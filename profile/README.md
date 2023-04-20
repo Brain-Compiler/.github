@@ -13,7 +13,7 @@
 
 <body>
   <div>
-    <h3>🧠Brain Compiler💻</h3>
+    <h3>브레인 </h3>
     <p>Explanation</p>
   </div>
   
@@ -31,7 +31,7 @@
   
   <div>
     <h4>📍 규칙</h4>
-    <p>Brain-Compiler의 규칙은 다음과 같습니다.<p/>
+    <p>브레인 컴파일러의 규칙은 다음과 같습니다.<p/>
     <details>
       <summary>기본 규칙</summary>
       <ul>
@@ -74,17 +74,17 @@
 
   <div>
     <h4>👤멤버</h4>
-    <p>창업동아리 Brain-Compiler는 경북소프트웨어고등학교에 재학중인 재학생들로 구성되어 있으며, <br />동아리장을 포함해 총 12명 2학년 7명과 1학년 5명으로 구성되어있습니다.<p/>
+    <p>브레인 컴파일러는 경북소프트웨어고등학교에 재학중인 재학생들로 구성되어 있으며, <br />대표 1명과 프로젝트 매니저 1명, 백엔드 3명, 인프라 1명으로 총 8명으로 구성되어있습니다.<p/>
     <table class="table" style="white-space: nowrap;">
-      <th colspan="6">동아리 대표</th>
+      <th colspan="7">대표</th>
       <tr>
-        <td colspan="6" align="center">김윤현</td>
-      <tr>
-      <tr>
-        <td colspan="6" align="center">2학년</td>
+        <td colspan="7" align="center">김윤현</td>
       <tr>
       <tr>
-        <td colspan="6" align="center">
+        <td colspan="7" align="center">3학년</td>
+      <tr>
+      <tr>
+        <td colspan="7" align="center">
           <a href="mailto:kyhofficial05@gmail.com">
             <img src="https://img.shields.io/badge/kyhofficial05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
           </a>
@@ -96,12 +96,12 @@
           </a>
         </td>
       <tr>
-      <th>동아리부장</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th>
+        <th>프론트엔드 팀장</th><th>백엔드</th><th>백엔드 팀장</th><th>인프라</th><th>백엔드</th><th>프론트엔드</th><th>프로젝트 매니저</th>
       <tr>
-        <td align="center">임준형</td><td align="center">김성희</td><td align="center">박대형</td><td align="center">박민준</td><td align="center">이재성</td><td align="center">장휴선</td>
+        <td align="center">임준형</td><td align="center">김성희</td><td align="center">박대형</td><td align="center">이재성</td><td align="center">조수빈</td><td align="center">장휴선</td><td align="center">이찬욱</td>
       <tr>
       <tr>
-        <td align="center">2학년</td><td align="center">2학년</td><td align="center">2학년</td><td align="center">2학년</td><td align="center">2학년</td><td align="center">2학년</td>
+        <td align="center">3학년</td><td align="center">3학년</td><td align="center">3학년</td><td align="center">3학년</td><td align="center">3학년</td><td align="center">3학년</td><td align="center">2학년</td>
       <tr>
       <tr>
         <td align="center">
@@ -120,11 +120,12 @@
           </a>
         </td>
         <td align="center">
-          <a href="https://github.com/pmj0815">
+          <a href="https://github.com/showbon218">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
           </a>
-        </td><td align="center">
-          <a href="https://github.com/showbon218">
+        </td>
+        <td align="center">
+          <a href="https://github.com/github-jademon">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
           </a>
         </td>
@@ -133,42 +134,11 @@
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
           </a>
         </td>
-      <tr>
-      <th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th>동아리원</th><th></th>
-      <tr>
-        <td align="center">김찬민</td><td align="center">이상민</td><td align="center">이찬욱</td><td align="center">임현준</td><td align="center">전유찬</td><td align="center"></td>
-      <tr>
-      <tr>
-        <td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center">1학년</td><td align="center"></td>
-      <tr>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/choipaco">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/minisangmini">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-          </a>
-        </td>
         <td align="center">
           <a href="https://github.com/wHoIsDReAmer">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
           </a>
         </td>
-        <td align="center">
-          <a href="https://github.com/Inghunjun">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/semidriedflatsquid">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-          </a>
-        </td>
-        <td align="center"></td>
-      <tr>
     </table>
   </div>
   
